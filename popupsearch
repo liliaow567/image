@@ -1,0 +1,37 @@
+[
+    {
+        "id": "BiliBili",
+        "title": "Search with BiliBili",
+        "description": "b站搜索",
+        "src": "https://raw.githubusercontent.com/liliaow567/image/master/SearchIcon/bilibili.png",
+        "href": "https://search.bilibili.com/all?keyword=${text}"
+    },
+   {
+        "id": "Byrbt",
+        "title": "Search with Byrbt",
+        "description": "byr搜索",
+        "src": "https://raw.githubusercontent.com/liliaow567/image/master/SearchIcon/byr.png",
+        "href": "https://bt.byr.cn/torrents.php?secocat=&cat=&incldead=0&spstate=0&inclbookmarked=0&search=${text}&search_area=0&search_mode=0"
+    },
+   {
+        "id": "BaiduXueshu",
+        "title": "Search with BaiduScholar",
+        "description": "百度学术搜索",
+        "src": "https://raw.githubusercontent.com/liliaow567/image/master/SearchIcon/baiduxueshu.jpg",
+        "href": "https://xueshu.baidu.com/s?wd=${text}&rsv_bp=0&tn=SE_baiduxueshu_c1gjeupa&rsv_spt=3&ie=utf-8&f=8&rsv_sug2=0&sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D"
+    },
+   {
+        "id": "GoogleScholar",
+        "title": "Search with GoogleScholar",
+        "description": "谷歌学术搜索",
+        "src": "https://raw.githubusercontent.com/liliaow567/image/master/SearchIcon/googlescholar.png",
+        "href": "https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=${text}&btnG="
+    },
+   {
+        "id": "SciHub",
+        "title": "Search with SciHub",
+        "description": "scihub搜索",
+        "src": "https://raw.githubusercontent.com/liliaow567/image/master/SearchIcon/scihub.jpg",
+        "href": "https://sci-hub.tw/${text}"
+    }
+]
